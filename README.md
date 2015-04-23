@@ -11,7 +11,8 @@ Install
 For ``Quizlet-Helper`` instalation  use following commands :
 
     drag & drop `quizlet-helper.xpi` file to Firefox window
-
+###### or
+    https://addons.mozilla.org/en-US/firefox/addon/quizlet-helper/
 
 
 ## TODO
