@@ -4,9 +4,20 @@
 - add selected word to a Quizlet Set from context menu
 
 
+
 Install
 -------
 
 For ``Quizlet-Helper`` instalation  use following commands :
 
     drag & drop `quizlet-helper.xpi` file to Firefox window
+
+
+
+## TODO
+- add translation of a Term description
+
+
+
+## License
+GPL License
