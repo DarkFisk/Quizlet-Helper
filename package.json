@@ -5,21 +5,13 @@
   "description": "Helps to work with Quizlet",
   "author": "Vyacheslav Lopatynskyy",
   "license": "GPL",
-  "version": "0.1",
+  "version": "1.0",
   "icon": "data/icon-32.png",
   "icon64": "data/icon-64.png",
   "engines": {
     "firefox": ">=32.0"
   },
   "preferences": [{
-      "name": "accessToken",
-      "title": "Quizlet OAuth access token",
-      "description": "Quizlet OAuth access token",
-      "type": "string",
-      "value": "",
-      "hidden": true
-  },
-  {
       "name": "quizletSetId",
       "description": "ID of default Quizlet Set for add new terms functionality (if it empty new 'firefox-helper Set will be created')",
       "type": "string",
