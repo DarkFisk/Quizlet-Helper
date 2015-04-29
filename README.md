@@ -23,4 +23,4 @@ https://addons.mozilla.org/en-US/firefox/addon/quizlet-helper/
 ## License
 GPL License
 
-![This uses the Quizlet.com flash cards](http://a.quizlet.com/i/powered/uses_quizlet_trans.png)
+[![This uses the Quizlet.com flash cards](https://quizlet.com/a/i/powered/uses_quizlet_blue.b5bZ.png)](https://quizlet.com/)
