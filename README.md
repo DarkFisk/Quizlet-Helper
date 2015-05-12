@@ -16,8 +16,10 @@ https://addons.mozilla.org/en-US/firefox/addon/quizlet-helper/
 
 
 ## TODO
-- add translation of a Term description
-
+- add translation of a Term description (Google Translate API)
+- send only in lowercase
+- settings for term/description languages
+- logout functionality
 
 
 ## License
