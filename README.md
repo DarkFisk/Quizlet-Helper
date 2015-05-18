@@ -20,6 +20,7 @@ https://addons.mozilla.org/en-US/firefox/addon/quizlet-helper/
 - send only in lowercase
 - settings for term/description languages
 - logout functionality
+- processing for expired Quizlet token
 
 
 ## License
