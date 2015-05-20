@@ -16,8 +16,7 @@ https://addons.mozilla.org/en-US/firefox/addon/quizlet-helper/
 
 
 ## TODO
-- add translation of a Term description (Google Translate API)
-- settings for term/description languages
+- settings for Term language
 - logout functionality
 - processing for expired Quizlet token
 
