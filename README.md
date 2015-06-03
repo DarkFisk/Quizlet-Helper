@@ -16,7 +16,8 @@ https://addons.mozilla.org/en-US/firefox/addon/quizlet-helper/
 
 
 ## TODO
-- settings for Term language
+- settings for Term language and default Set name
+- set default Term language from browser localization
 - logout functionality
 - processing for expired Quizlet token
 
